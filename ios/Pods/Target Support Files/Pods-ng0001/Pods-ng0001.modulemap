@@ -1,0 +1,6 @@
+module Pods_ng0001 {
+  umbrella header "Pods-ng0001-umbrella.h"
+
+  export *
+  module * { export * }
+}
